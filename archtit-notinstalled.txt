@@ -1,0 +1,22 @@
+alsa stuff except alsa-utils
+
+dnsmasq
+bind
+ntfs-3g # in kernel from 5.15... maybe
+
+synergy # barrier instead
+
+
+
+# AUR STUFF
+brave-bin
+
+# KWIN stuff
+lightly-git
+lightlyshaders-git
+nordic-kde-git
+sddm-nordic-theme-git
+
+
+
+
