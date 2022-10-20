@@ -46,5 +46,7 @@ pacman -S --needed - < arch-extra.txt
 
 pacman -S python-gpgme --needed
 
+# Make sure we can build aur packages
 
+pacman -S --needed base-devel
 

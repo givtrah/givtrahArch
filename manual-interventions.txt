@@ -1,0 +1,21 @@
+KDE:
+
+In login manager use X11 (rstudio does not work in Wayland...)
+
+In settings, change:
+
+Click = selects, not open (in general behavior)
+
+Change scrolling to natural scrolling
+Must be done for both Wayland and X11
+
+
+Dolphin:
+
+
+RStudio:
+
+Install night-owlish theme from https://github.com/batpigandme/night-owlish
+
+wget https://raw.githubusercontent.com/batpigandme/night-owlish/master/rstheme/night-owlish.rstheme
+
